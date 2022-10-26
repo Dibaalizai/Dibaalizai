@@ -1,17 +1,20 @@
-<div id="header" align="center">
- <img src="https://media.giphy.com/media/kclW4QLTnLmfvshm0l/giphy.gif" width="30"/> <a href="https://dibaalizai.github.io/">My Portfolio website</a> 
-</div>
-
----
-  
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="300"/>
   
   ![](https://komarev.com/ghpvc/?username=dibaalizai&color=ff69b4)
 </div>
 
+
+
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/kclW4QLTnLmfvshm0l/giphy.gif" width="30"/> <a href="https://dibaalizai.github.io/">My Portfolio website</a> 
+</div>
+
+---
+
+  
   <div align="center">
-  <h1> About Me </h1> <span> hey there, I am Diba Alizai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I am a Full Stack Developer from the Netherlands. </span>
+  <h3> About Me </h3> <span> hey there, I am Diba Alizai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I am a Full Stack Developer from the Netherlands. </span>
   </div>
 
  
