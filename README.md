@@ -10,15 +10,11 @@
   ![](https://komarev.com/ghpvc/?username=dibaalizai&color=ff69b4)
 </div>
 
-
-
-   ---
   <div align="center">
-  <h1> About Me </h1>
-  <p> hey there, I am Diba Alizai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I am a Full Stack Developer from the Netherlands.</p>
-  
+  <h1> About Me </h1> <span> hey there, I am Diba Alizai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I am a Full Stack Developer from the Netherlands. </span>
   </div>
-  
+
+ 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - 💬Ask me about anything, I am happy to help😄
