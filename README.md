@@ -1,3 +1,9 @@
+- 🎯Portfolio website: <a href="https://dibaalizai.github.io/">Portfolio</a>
+
+
+
+
+
 
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="300"/>
@@ -17,10 +23,13 @@
 
 
 <p>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+  hey there, I am Diba Alizai
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> 
+  I am a Full Stack Developer from the Netherlands. 
 </p>
-I am a Full Stack Developer from the Netherlands.
+
+
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
