@@ -4,23 +4,22 @@
   ![](https://komarev.com/ghpvc/?username=dibaalizai&color=ff69b4)
 </div>
 
-
-
+  
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/kclW4QLTnLmfvshm0l/giphy.gif" width="30"/> <a href="https://dibaalizai.github.io/">My Portfolio website</a> 
 </div>
 
 ---
-
-  
-  <div align="center">
-  <h3> About Me </h3> <span> hey there, I am Diba Alizai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I am a Full Stack Developer from the Netherlands. </span>
+   <div align="center">
+     <h1> About Me : </h1> 
   </div>
 
- 
+  
+Hey there, I am Diba Alizai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I am a Full Stack Developer from the Netherlands. 
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 💬Ask me about anything, I am happy to help😄
+- 💬 Ask me about anything, I am happy to help😄
 
 - :seedling: Exploring Technical Content Writing
 
