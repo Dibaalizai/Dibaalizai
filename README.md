@@ -1,22 +1,18 @@
-  
-  <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-  </div>
-  
-  <div id="header" align="center">
+   <div id="header" align="center">
   <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="300"/>
   
   ![](https://komarev.com/ghpvc/?username=dibaalizai&color=ff69b4)
 </div>
+
+
+
+   ---
+  <div align="center">
+  <h1> About Me </h1>
+  <p> hey there, I am Diba Alizai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I am a Full Stack Developer from the Netherlands.</p>
   
-<div align="center">
-   <h3> About Me </h3> <span>hey there, I am Diba Alizai </span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> 
-  I am a Full Stack Developer from the Netherlands. 
-</p>
   </div>
-
-
+  
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - 🎯Portfolio website: <a href="https://dibaalizai.github.io/">Portfolio</a>
@@ -34,8 +30,14 @@
 
    
    ---
+  <div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+  </div>
+  
+   <div align="center">
+     <h1> :hammer_and_wrench: Languages and Tools : </h1>
+  </div>
 
-### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -63,6 +65,19 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web and App Development
 - ✍️ Learning new languages
+  
+  ---
 
+### :fire: My Stats :
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dibaalizai)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibaalizai)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+  
+  - Coming Soon!
   
  
