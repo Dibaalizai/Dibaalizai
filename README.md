@@ -1,4 +1,10 @@
-   <div id="header" align="center">
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/kclW4QLTnLmfvshm0l/giphy.gif" width="30"/> <a href="https://dibaalizai.github.io/">My Portfolio website</a> 
+</div>
+
+---
+  
+  <div id="header" align="center">
   <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="300"/>
   
   ![](https://komarev.com/ghpvc/?username=dibaalizai&color=ff69b4)
@@ -15,7 +21,6 @@
   
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 🎯Portfolio website: <a href="https://dibaalizai.github.io/">Portfolio</a>
 - 💬Ask me about anything, I am happy to help😄
 
 - :seedling: Exploring Technical Content Writing
