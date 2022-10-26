@@ -56,4 +56,13 @@
  
 </div>
   
+  
+---
+
+### 💙 Things I love: 
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web and App Development
+- ✍️ Learning new languages
+
+  
  
