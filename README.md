@@ -39,7 +39,13 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
 
-<div id="main" align="center"> <h1> :hammer_and_wrench: Languages and Tools : </h1>
+<div id="main" align="center"> 
+  
+### <a href="https://dibaalizai.github.io/">:hammer_and_wrench: Languages and Tools :</a> 
+</div>
+  
+
+<div id="main" align="center"> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
