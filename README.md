@@ -20,15 +20,14 @@
 
 <div id="main" align="center"> 
   
-  <a href="https://dibaalizai.github.io/">My Portfolio website</a> 
+### <a href="https://dibaalizai.github.io/">My Portfolio website</a> 
 </div>
   
 <div id="main" align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
 
-<div id="main" align="center">
- <h1> :hammer_and_wrench: Languages and Tools : </h1>
+<div id="main" align="center"> <h1> :hammer_and_wrench: Languages and Tools : </h1>
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -44,19 +43,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg" title="Composer" **alt="Composer" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
+
 </div>
 
+--
+ <div id="main" align="center">
+ <h1> ☘️ Hobbies & Interests : </h1>
 
+### 💙 Swimming 💙 Cooking 💙 Travel 💙 Photography 
+
+</div>  
  
-
-### <img src="https://media.giphy.com/media/Lpd3Jzzzudg0j7REiX/giphy.gif" width="100">  I 💙 Swimming
-  
-  
-
-### :fire: My Stats :
-  
+ 
+<div id="main" align="center">
+ <h1> :fire: My Stats : </h1>
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dibaalizai)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibaalizai)](https://github.com/anuraghazra/github-readme-stats)
 
- 
+</div>  
