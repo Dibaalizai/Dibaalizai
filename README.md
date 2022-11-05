@@ -41,7 +41,7 @@
 
 <div id="main" align="center"> 
   
-# <a href="#">Languages and Tools</a> 
+# <a href="#">Languages & Tools</a> 
 </div>
   
 
