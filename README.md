@@ -58,20 +58,10 @@
 
 </div>
 
---
- <div id="main" align="center">
- <h1> ☘️ Hobbies & Interests : </h1>
+###
 
-### 💙 Swimming 💙 Cooking 💙 Travel 💙 Photography 
-
-</div>  
- 
- 
-<div id="main" align="center">
- <h1> :fire: My Stats : </h1>
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dibaalizai)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibaalizai)](https://github.com/anuraghazra/github-readme-stats)
-
+<div id="header" align="center"> 
+ <h1> :fire: My Interest : </h1> 
+  <img src="https://media.giphy.com/media/ESs6lQgCiqEEmWZGkk/giphy.gif" width="100"/>
+   - 💙 Swimming, Cooking, Traveling & Photography
 </div>  
