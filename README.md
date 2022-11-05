@@ -1,45 +1,35 @@
-  <div id="header" align="center">
+
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="1000" height="150"/>
   
   ![](https://komarev.com/ghpvc/?username=dibaalizai&color=ff69b4)
 </div>
 
-  
-<div id="header" align="center">
- <img src="https://media.giphy.com/media/kclW4QLTnLmfvshm0l/giphy.gif" width="30"/> <a href="https://dibaalizai.github.io/">My Portfolio website</a> 
+
+<div id="header" align="center"> 
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
----
+<div id="header" align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> Hey there, I am Diba Alizai. I am a Junior Developer from the Netherlands. 
+
+  :telescope: I’m learning and building frontend and backend web applications.
+  :zap: In my free time, :seedling: I create multimedia content,  solve problems on freeCodeCamp and read tech articles.
+</div>
+
+
+<div id="main" align="center"> 
   
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> Hey there, I am Diba Alizai. I am a Full Stack Developer from the Netherlands. 
-
-- :telescope: I’m learning and building frontend and backend web applications.
-
-- 💬 Ask me about anything, I am happy to help😄
-
-- :seedling: Exploring Technical Content Writing
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dibaalizai/)
-<div id="badges" >
+  <a href="https://dibaalizai.github.io/">My Portfolio website</a> 
+</div>
   
+<div id="main" align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+</div>
 
-  
-
-   
-   ---
-  <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
-  </div>
-  
-   <div align="center">
-     <h1> :hammer_and_wrench: Languages and Tools : </h1>
-  </div>
-
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<div id="main" align="center">
+ <h1> :hammer_and_wrench: Languages and Tools : </h1>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -54,18 +44,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg" title="Composer" **alt="Composer" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
- 
 </div>
-  
-  
----
 
-### 💙 Things I love: 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Web and App Development
-- ✍️ Learning new languages
+ 
+
+### <img src="https://media.giphy.com/media/Lpd3Jzzzudg0j7REiX/giphy.gif" width="100">  I 💙 Swimming
   
-  ---
+  
 
 ### :fire: My Stats :
   
@@ -73,10 +59,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibaalizai)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### :writing_hand: Blog Posts :
-  
-  - Coming Soon!
-  
  
