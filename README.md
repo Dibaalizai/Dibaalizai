@@ -32,7 +32,7 @@
 
 <div id="main" align="center"> 
   
-### <a href="https://dibaalizai.github.io/">My Portfolio website</a> 
+# <a href="https://dibaalizai.github.io/">My Portfolio website</a> 
 </div>
   
 <div id="main" align="center">
@@ -41,7 +41,7 @@
 
 <div id="main" align="center"> 
   
-### <a href="#">:hammer_and_wrench: Languages and Tools :</a> 
+# <a href="#">:hammer_and_wrench: Languages and Tools :</a> 
 </div>
   
 
