@@ -1,3 +1,15 @@
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/dibaalizai/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/star.diba/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="InstaGram Badge"/>
+  </a>
+  <a href="https://twitter.com/deebastar">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="500" height="150"/>
