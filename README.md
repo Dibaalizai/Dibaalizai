@@ -41,7 +41,7 @@
 
 <div id="main" align="center"> 
   
-### <a href="https://dibaalizai.github.io/">:hammer_and_wrench: Languages and Tools :</a> 
+### <a href="#">:hammer_and_wrench: Languages and Tools :</a> 
 </div>
   
 
