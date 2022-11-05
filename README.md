@@ -57,11 +57,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 
 </div>
-
-###
-
-<div id="header" align="center"> 
- <h1> :fire: My Interest : </h1> 
-  <img src="https://media.giphy.com/media/ESs6lQgCiqEEmWZGkk/giphy.gif" width="100"/>
-   - 💙 Swimming, Cooking, Traveling & Photography
-</div>  
