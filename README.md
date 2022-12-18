@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> Hey there, I am Diba Alizai. I am a Junior Developer from the Netherlands. 
 
   :telescope: I’m learning and building frontend and backend web applications.
-  :zap: In my free time, :seedling: I create multimedia content,  solve problems on freeCodeCamp and read tech articles.
+  :zap: In my free time, :seedling: I create multimedia content,  solve problems on GeekforGeeks and read tech articles.
 </div>
 
 
