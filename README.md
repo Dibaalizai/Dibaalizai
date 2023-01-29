@@ -3,9 +3,6 @@
   <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> 🌏 </span>
 </div>
 
-<div id="header" align="center"> 
-  <img href="https://alizai.vercel.app/" src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
 
 
 
@@ -65,4 +62,9 @@
    <a>  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva Badge"/></a> 
    <a> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode Badge"/></a> 
 
+</div>
+
+
+<div id="header" align="center"> 
+  <img href="https://alizai.vercel.app/" src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
