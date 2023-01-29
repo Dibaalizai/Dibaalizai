@@ -1,10 +1,3 @@
- 
- <div id="header" align="center">
-  <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> 🌏 </span>
-</div>
-
-
-
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dibaalizai/">
@@ -28,7 +21,7 @@
 
 
 <div id="header" align="center"> 
-  I am a Junior Developer from the Netherlands. :telescope: I’m learning and building frontend and backend web applications.
+   <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> 🌏 </span> My name is Diba. I am a Web Junior Developer from the Netherlands. :telescope: I’m learning and building frontend and backend web applications.
   :zap: In my free time, :seedling: I create multimedia content, 🧠 solve problems on GeekforGeeks and 📖 read tech articles.
 </div>
 
