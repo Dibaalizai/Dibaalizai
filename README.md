@@ -1,4 +1,11 @@
-  # Hello World 🌏
+ 
+ <div id="header" align="center">
+  <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> 🌏 </span>
+</div>
+
+<div id="header" align="center"> 
+  <img href="https://alizai.vercel.app/" src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
 
 
 
@@ -22,14 +29,9 @@
 </div>
 
 
-<div id="header" align="center"> 
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
 
 <div id="header" align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> Hey there, I am Diba Alizai. I am a Junior Developer from the Netherlands. 
-
-  :telescope: I’m learning and building frontend and backend web applications.
+  I am a Junior Developer from the Netherlands. :telescope: I’m learning and building frontend and backend web applications.
   :zap: In my free time, :seedling: I create multimedia content, 🧠 solve problems on GeekforGeeks and 📖 read tech articles.
 </div>
 
